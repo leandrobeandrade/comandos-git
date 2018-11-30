@@ -279,7 +279,7 @@ Neste caso, o ponteiro principal **HEAD** esta apontando para o branch chamado b
 
 	git merge bug-123
 	
-Para realizar o *merge*, é necessário estar no branch que deverá receber as alterações. O *merge* pode automático ou manual. O merge automático será feito em arquivos textos que não sofreram alterações nas mesmas linhas, já o merge manual será feito em arquivos textos que sofreram alterações nas mesmas linhas.
+Para realizar o *merge*, é necessário estar no branch que deverá receber as alterações. O *merge* pode ser automático ou manual. O merge automático será feito em arquivos textos que não sofreram alterações nas mesmas linhas, já o merge manual será feito em arquivos textos que sofreram alterações nas mesmas linhas.
 
 A mensagem indicando um *merge* manual será:
 
