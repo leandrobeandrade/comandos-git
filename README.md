@@ -178,7 +178,9 @@ A alteração do diretório pode ser realizada através do comando abaixo:
 ## Repositório Remoto
 
 ### Exibir os repositórios remotos
-
+  	
+	git branch -r
+	
 	git remote
 	
 	git remote -v
